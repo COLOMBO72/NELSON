@@ -1,0 +1,18 @@
+.postblock{
+    display: flex;
+    padding: 5px;
+    background-color: #f1efef;
+    margin: 10px 0px;
+}
+.postblock img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-bottom: 2px;
+}
+.postblock span{
+    font-size: 15px;
+    text-decoration: underline;
+    color: rgb(58, 185, 19);
+    cursor:pointer;
+}

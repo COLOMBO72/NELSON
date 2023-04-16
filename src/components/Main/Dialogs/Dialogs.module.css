@@ -1,0 +1,43 @@
+
+.dialogs{
+    display: flex;
+    min-height: 800px;
+    justify-content:space-between;
+}
+.dialogItem{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+.messages{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 300px;
+}
+
+/*.dialogborder{
+    padding: 10px;
+    background-color: rgb(236, 246, 255);
+    width: 600px;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.dialogborder:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+.borderimg{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.dialogtime{
+    margin-left: auto;
+    margin-right: 5px;
+}*/
