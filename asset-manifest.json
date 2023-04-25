@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NELSON/static/css/main.a16551ff.css",
-    "main.js": "/NELSON/static/js/main.18f1ef4c.js",
+    "main.js": "/NELSON/static/js/main.071feebc.js",
     "static/css/672.9d5614e3.chunk.css": "/NELSON/static/css/672.9d5614e3.chunk.css",
     "static/js/672.18abe878.chunk.js": "/NELSON/static/js/672.18abe878.chunk.js",
     "static/css/12.959aada3.chunk.css": "/NELSON/static/css/12.959aada3.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/preloader.svg": "/NELSON/static/media/preloader.ce2841f1ff6b2c8e95ef3b136be29504.svg",
     "index.html": "/NELSON/index.html",
     "main.a16551ff.css.map": "/NELSON/static/css/main.a16551ff.css.map",
-    "main.18f1ef4c.js.map": "/NELSON/static/js/main.18f1ef4c.js.map",
+    "main.071feebc.js.map": "/NELSON/static/js/main.071feebc.js.map",
     "672.9d5614e3.chunk.css.map": "/NELSON/static/css/672.9d5614e3.chunk.css.map",
     "672.18abe878.chunk.js.map": "/NELSON/static/js/672.18abe878.chunk.js.map",
     "12.959aada3.chunk.css.map": "/NELSON/static/css/12.959aada3.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.a16551ff.css",
-    "static/js/main.18f1ef4c.js"
+    "static/js/main.071feebc.js"
   ]
 }
