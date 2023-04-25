@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/NELSON/static/css/main.a16551ff.css",
-    "main.js": "/NELSON/static/js/main.071feebc.js",
+    "main.js": "/NELSON/static/js/main.f396f3e6.js",
     "static/css/672.9d5614e3.chunk.css": "/NELSON/static/css/672.9d5614e3.chunk.css",
     "static/js/672.18abe878.chunk.js": "/NELSON/static/js/672.18abe878.chunk.js",
     "static/css/12.959aada3.chunk.css": "/NELSON/static/css/12.959aada3.chunk.css",
-    "static/js/12.e3ebe2c9.chunk.js": "/NELSON/static/js/12.e3ebe2c9.chunk.js",
+    "static/js/12.7820e9b2.chunk.js": "/NELSON/static/js/12.7820e9b2.chunk.js",
     "static/css/966.97499abd.chunk.css": "/NELSON/static/css/966.97499abd.chunk.css",
     "static/js/966.0d0ffcef.chunk.js": "/NELSON/static/js/966.0d0ffcef.chunk.js",
     "static/css/153.011c5f5d.chunk.css": "/NELSON/static/css/153.011c5f5d.chunk.css",
@@ -17,11 +17,11 @@
     "static/media/preloader.svg": "/NELSON/static/media/preloader.ce2841f1ff6b2c8e95ef3b136be29504.svg",
     "index.html": "/NELSON/index.html",
     "main.a16551ff.css.map": "/NELSON/static/css/main.a16551ff.css.map",
-    "main.071feebc.js.map": "/NELSON/static/js/main.071feebc.js.map",
+    "main.f396f3e6.js.map": "/NELSON/static/js/main.f396f3e6.js.map",
     "672.9d5614e3.chunk.css.map": "/NELSON/static/css/672.9d5614e3.chunk.css.map",
     "672.18abe878.chunk.js.map": "/NELSON/static/js/672.18abe878.chunk.js.map",
     "12.959aada3.chunk.css.map": "/NELSON/static/css/12.959aada3.chunk.css.map",
-    "12.e3ebe2c9.chunk.js.map": "/NELSON/static/js/12.e3ebe2c9.chunk.js.map",
+    "12.7820e9b2.chunk.js.map": "/NELSON/static/js/12.7820e9b2.chunk.js.map",
     "966.97499abd.chunk.css.map": "/NELSON/static/css/966.97499abd.chunk.css.map",
     "966.0d0ffcef.chunk.js.map": "/NELSON/static/js/966.0d0ffcef.chunk.js.map",
     "153.011c5f5d.chunk.css.map": "/NELSON/static/css/153.011c5f5d.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.a16551ff.css",
-    "static/js/main.071feebc.js"
+    "static/js/main.f396f3e6.js"
   ]
 }
