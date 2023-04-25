@@ -9,10 +9,8 @@
     flex-direction: column;
     margin: 10px;
     width: 300px;
-    background-color: antiquewhite;
 }
 .messages{
-    background-color: antiquewhite;
     display: flex;
     flex-direction: column;
     margin: 10px;

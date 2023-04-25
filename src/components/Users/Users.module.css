@@ -1,0 +1,56 @@
+.usersList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.userBlock{
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+    width: 600px;
+    height: 120px;
+    border-radius: 10px;
+}
+.photoUrl {
+    margin-right: 20px;
+    border-color: 5px;
+}
+.userInfo {
+    height: 30px;
+    margin-right: 10px;
+}
+.selectedPage {
+    color:rgb(181, 184, 184);
+    text-decoration: none;
+    cursor: pointer;
+}
+span{
+    cursor: pointer;
+    margin: 5px;
+}
+span:hover{
+    text-decoration: underline;
+}
+.button{
+    width: 110px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgb(182, 241, 232);
+    cursor: pointer;
+}
+.numbersBlock{
+    display: flex;
+}
+.numbersBlock>button{
+    width: 50px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgb(182, 241, 232);
+    cursor: pointer;
+}

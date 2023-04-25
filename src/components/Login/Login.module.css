@@ -1,0 +1,46 @@
+.loginBlock {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.loginBlock>form {}
+
+.loginBlock>form>button {
+    width: 150px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgb(182, 241, 232);
+}
+
+.header {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.inputFields {
+    width: 220px;
+}
+
+.inputField {
+    border-radius: 5px;
+    border-width: 0px;
+    width: 220px;
+    height: 30px;
+    text-align: center;
+    margin: 5px;
+}
+
+.rememberMe {
+    display: flex;
+
+}
+
+.rememberMe>div {
+    margin: 5px;
+}

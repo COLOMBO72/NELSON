@@ -1,0 +1,22 @@
+.posts{
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    width: 100px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgb(185, 238, 230);
+    margin-left: 10px;
+}
+.inputField{
+    border-radius: 5px;
+    border-width: 1px;
+    width: 220px;
+    height: 30px;
+    text-align: center;
+    margin: 5px;
+}

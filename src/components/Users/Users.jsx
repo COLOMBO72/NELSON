@@ -1,29 +1,15 @@
 import React from "react";
-import nullpic from '../../../Assets/Images/nullpic.jpg';
+import nullpic from '../../Assets/Images/nullpic.jpg';
 import s from './Users.module.css';
 import { NavLink } from "react-router-dom";
-import axios from "axios";
-import { usersAPI } from "../../../api/api";
+import Paginator from '../Common/FormsControls/Paginator/Paginator'
 
+let Users = ({currentPage,usersTotalCount,pageSize,onPageChanged,...props}) => {
 
-
-let Users = (props) => {
-
-    let pagesCount = Math.ceil(props.usersTotalCount / props.pageSize);
-    let pages = [];
-    for (let i = 1; i <= pagesCount; i++) {
-        if (pages.length < 20) {
-            pages.push(i);
-        }
-    }
     return (
         <div className={s.usersList}>
-            <div>
-                {pages.map(p => {
-                    return <span className={props.currentPage === p && s.selectedPage}
-                        onClick={(e) => { props.onPageChanged(p) }}>{p}</span>
-                })}
-            </div>
+            <Paginator currentPage={currentPage} usersItemsCount={usersTotalCount} 
+            pageSize={pageSize} onPageChanged={onPageChanged}/>
             {
                 props.users.map(u => <div key={u.id}>
                     <div className={s.userBlock}>
@@ -39,9 +25,9 @@ let Users = (props) => {
                             <div className={s.country}>{"u.location.country"}</div>
                             <div>
                                 {u.followed
-                                    ? <button disabled={props.followingInProgress.includes(u.id)} 
+                                    ? <button className={s.button} disabled={props.followingInProgress.includes(u.id)} 
                                     onClick={() => {props.unfollow(u.id)}}>Unfollow</button>
-                                    : <button disabled={props.followingInProgress.includes(u.id)} 
+                                    : <button className={s.button} disabled={props.followingInProgress.includes(u.id)} 
                                     onClick={() => {props.follow(u.id)}}>Follow</button>}
                             </div>
                         </div>
