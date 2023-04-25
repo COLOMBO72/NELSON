@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/nelsondemo/static/css/main.a16551ff.css",
+    "main.js": "/nelsondemo/static/js/main.8e1412e1.js",
+    "static/css/672.9d5614e3.chunk.css": "/nelsondemo/static/css/672.9d5614e3.chunk.css",
+    "static/js/672.18abe878.chunk.js": "/nelsondemo/static/js/672.18abe878.chunk.js",
+    "static/css/12.959aada3.chunk.css": "/nelsondemo/static/css/12.959aada3.chunk.css",
+    "static/js/12.e3ebe2c9.chunk.js": "/nelsondemo/static/js/12.e3ebe2c9.chunk.js",
+    "static/css/966.97499abd.chunk.css": "/nelsondemo/static/css/966.97499abd.chunk.css",
+    "static/js/966.0d0ffcef.chunk.js": "/nelsondemo/static/js/966.0d0ffcef.chunk.js",
+    "static/css/153.011c5f5d.chunk.css": "/nelsondemo/static/css/153.011c5f5d.chunk.css",
+    "static/js/153.49424330.chunk.js": "/nelsondemo/static/js/153.49424330.chunk.js",
+    "static/css/956.4487d74a.chunk.css": "/nelsondemo/static/css/956.4487d74a.chunk.css",
+    "static/js/956.f72b4505.chunk.js": "/nelsondemo/static/js/956.f72b4505.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/nelsondemo/static/js/787.28cb0dcd.chunk.js",
+    "static/js/434.a5d6dc9f.chunk.js": "/nelsondemo/static/js/434.a5d6dc9f.chunk.js",
+    "static/media/preloader.svg": "/nelsondemo/static/media/preloader.ce2841f1ff6b2c8e95ef3b136be29504.svg",
+    "index.html": "/nelsondemo/index.html",
+    "main.a16551ff.css.map": "/nelsondemo/static/css/main.a16551ff.css.map",
+    "main.8e1412e1.js.map": "/nelsondemo/static/js/main.8e1412e1.js.map",
+    "672.9d5614e3.chunk.css.map": "/nelsondemo/static/css/672.9d5614e3.chunk.css.map",
+    "672.18abe878.chunk.js.map": "/nelsondemo/static/js/672.18abe878.chunk.js.map",
+    "12.959aada3.chunk.css.map": "/nelsondemo/static/css/12.959aada3.chunk.css.map",
+    "12.e3ebe2c9.chunk.js.map": "/nelsondemo/static/js/12.e3ebe2c9.chunk.js.map",
+    "966.97499abd.chunk.css.map": "/nelsondemo/static/css/966.97499abd.chunk.css.map",
+    "966.0d0ffcef.chunk.js.map": "/nelsondemo/static/js/966.0d0ffcef.chunk.js.map",
+    "153.011c5f5d.chunk.css.map": "/nelsondemo/static/css/153.011c5f5d.chunk.css.map",
+    "153.49424330.chunk.js.map": "/nelsondemo/static/js/153.49424330.chunk.js.map",
+    "956.4487d74a.chunk.css.map": "/nelsondemo/static/css/956.4487d74a.chunk.css.map",
+    "956.f72b4505.chunk.js.map": "/nelsondemo/static/js/956.f72b4505.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/nelsondemo/static/js/787.28cb0dcd.chunk.js.map",
+    "434.a5d6dc9f.chunk.js.map": "/nelsondemo/static/js/434.a5d6dc9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a16551ff.css",
+    "static/js/main.8e1412e1.js"
+  ]
+}
