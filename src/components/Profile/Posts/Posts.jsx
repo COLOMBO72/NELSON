@@ -16,7 +16,6 @@ const PostsForm = (props) => {
 const AddPostReduxForm = reduxForm({ form: 'AddPostForm' })(PostsForm);
 
 const Posts = React.memo(props => {
-    console.log('posts')
     let postsElements = [
         props.posts.reverse().map(p => <Post message={p.text} like={p.like} name={p.name} />)
     ]

@@ -16,7 +16,7 @@ const LoginForm = ({ handleSubmit, error }) => {
             <form onSubmit={handleSubmit}>
                 <div className={l.inputFields}>
                     {createField ("Email", Input, [required, maxLengthCreator(20), minLengthCreator(1)], "email")}
-                    {createField("password", Input, [required, maxLengthCreator(20), minLengthCreator(6)], "password", 'password')}
+                    {createField("password", Input, [required, maxLengthCreator(20), minLengthCreator(6)], "password", {type: 'password'})}
                     
                 </div>
                 <div className={l.rememberMe}>
